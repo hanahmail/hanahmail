@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**hanahmail/hanahmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- **Name**: Ah Han
+- **Workplace**: Chowol High School, Gwangju, Gyeonggi, South Korea 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m currently doing
+- Exploring new technologies and improving my skills.
+- Collaborating on interesting projects.
+
+---
+
+### 📫 How to reach me
+Feel free to connect with me through GitHub!
+
+---
+
+*Thank you for visiting my profile! Have a great day! 😊*
